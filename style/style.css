@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+*{
+    /* font-family:  sans-serif; */
+    font-family: "Raleway", sans-serif;
+   transition: 0.5s;
+   scroll-behavior: smooth;
+}
+
+
